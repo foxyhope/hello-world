@@ -1,2 +1,4 @@
 # hello-world
-It's my first repository
+Hello everyone!
+
+My name is Hope. I want to learn web design.
